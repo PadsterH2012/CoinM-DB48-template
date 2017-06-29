@@ -1,0 +1,1 @@
+# CoinM-DB48-template
